@@ -1,0 +1,21 @@
+all_articles: 全ての記事
+about: 管理人について
+friends: フレンド
+links: リンク
+post:
+  title: タイトル
+  author: 執筆者
+  created_at: 更新日
+  updated_at: 更新日
+  word_count: 単語数
+  url: URL
+  views: "Views 👀"
+  comment: コメント
+  copyright: "Copyright"
+  copyright1: "'Attribution-non-commercial-shared in the same way 4.0'"
+  copyright2: "Reprint please keep the original link and author."
+donation:
+  button: "💰"
+  headline: "Help us with donation"
+  alipay: "alipay"
+  weixin: "weixin"
